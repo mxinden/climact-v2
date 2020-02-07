@@ -1,4 +1,4 @@
-baseURL = "v2.climact.de"
+baseURL = "v2.climact.de/"
 languageCode = "en-us"
 title = "Climact v2"
 theme = "book"
